@@ -1,0 +1,71 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: black;
+    padding: 20px;
+    
+}
+
+
+.left-container{
+    display: flex;
+    padding: 50px;
+    width: 50%;
+
+
+}
+.button{
+    background-color: blue;
+    border: 10px;
+    cursor: pointer;
+    width: 100%;
+    background-color: rgb(162, 94, 226);
+    color: rgb(26, 24, 24);
+    border-radius: 10px;
+    height: 25px
+    
+  
+  }
+  .container2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+  justify-items: left; 
+  margin-right: 20% ;
+  
+  
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+  border: 100px;
+
+  
+  
+  }
+  
+  
+  .Google-button{
+  
+      background-color: white;
+      border-color: rgb(2, 70, 225);
+      border-width: 1px;
+      color: rgb(16, 67, 158);
+      height: 25px;
+      width: 100%;
+      border-radius: 8px;
+  cursor: pointer;
+  
+  
+  
+  }
+  body{
+    background-image: url("images/prateek-katyal-FcdtuGf7TEc-unsplash.jpg");
+  }
+  
+  
+
+
+
